@@ -6,4 +6,4 @@ With a **PhD in Optics** and a **Master’s in Materials Chemistry**, I’m trai
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;📘 **PhD** — *Fourier Light Field Microscopy for Polymer Networks*  
-&nbsp;&nbsp;&nbsp;&nbsp;📗 **[MChem]** — *Mechanistic Study of the ADOR Process for Zeolites* ([ACS Publication](https://pubs.acs.org/doi/full/10.1021/acs.cgd.3c01037))
+&nbsp;&nbsp;&nbsp;&nbsp;📗 **MChem** — *Mechanistic Study of the ADOR Process for Zeolites* ([ACS Publication](https://pubs.acs.org/doi/full/10.1021/acs.cgd.3c01037))
